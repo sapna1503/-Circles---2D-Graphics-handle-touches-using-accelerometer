@@ -1,4 +1,4 @@
-# -Circles-2D-Graphics-handle touches-using-accelerometer
+Circles-2D-Graphics-handle touches-using-accelerometer
 
 When the user places one finger on the screen a circle is drawn on the screen. 
 The center ofthe circle is placed where the user touched the screen. 
